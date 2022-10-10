@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Logged in to the application]]>
+    </line>
+    <line>
+      <![CDATA[Checking the profilepage]]>
+    </line>
+    <line>
+      <![CDATA[Logged out from the application]]>
+    </line>
+    <line>
+      <![CDATA[Logged in to the application]]>
+    </line>
+    <line>
+      <![CDATA[Checking the notificationpage]]>
+    </line>
+    <line>
+      <![CDATA[Logged out from the application]]>
+    </line>
+    <line>
+      <![CDATA[Logged in to the application]]>
+    </line>
+    <line>
+      <![CDATA[Checking the homepage]]>
+    </line>
+    <line>
+      <![CDATA[Logged out from the application]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-06T17:58:19 IST" name="Default suite" finished-at="2022-10-06T17:58:19 IST" duration-ms="191">
+    <groups>
+    </groups>
+    <test started-at="2022-10-06T17:58:19 IST" name="Default test" finished-at="2022-10-06T17:58:19 IST" duration-ms="191">
+      <class name="Basics.BeforeMethodAfterMethodPractice">
+        <test-method is-config="true" signature="login()[pri:0, instance:Basics.BeforeMethodAfterMethodPractice@1649b0e6]" started-at="2022-10-06T17:58:19 IST" name="login" finished-at="2022-10-06T17:58:19 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="profilepage()[pri:1, instance:Basics.BeforeMethodAfterMethodPractice@1649b0e6]" started-at="2022-10-06T17:58:19 IST" name="profilepage" finished-at="2022-10-06T17:58:19 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking the profilepage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- profilepage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Basics.BeforeMethodAfterMethodPractice@1649b0e6]" started-at="2022-10-06T17:58:19 IST" name="logout" finished-at="2022-10-06T17:58:19 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:Basics.BeforeMethodAfterMethodPractice@1649b0e6]" started-at="2022-10-06T17:58:19 IST" name="login" finished-at="2022-10-06T17:58:19 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="notificationpage()[pri:2, instance:Basics.BeforeMethodAfterMethodPractice@1649b0e6]" started-at="2022-10-06T17:58:19 IST" name="notificationpage" finished-at="2022-10-06T17:58:19 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking the notificationpage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- notificationpage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Basics.BeforeMethodAfterMethodPractice@1649b0e6]" started-at="2022-10-06T17:58:19 IST" name="logout" finished-at="2022-10-06T17:58:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:Basics.BeforeMethodAfterMethodPractice@1649b0e6]" started-at="2022-10-06T17:58:19 IST" name="login" finished-at="2022-10-06T17:58:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="homepage()[pri:3, instance:Basics.BeforeMethodAfterMethodPractice@1649b0e6]" started-at="2022-10-06T17:58:19 IST" name="homepage" finished-at="2022-10-06T17:58:19 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking the homepage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Basics.BeforeMethodAfterMethodPractice@1649b0e6]" started-at="2022-10-06T17:58:19 IST" name="logout" finished-at="2022-10-06T17:58:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Basics.BeforeMethodAfterMethodPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
